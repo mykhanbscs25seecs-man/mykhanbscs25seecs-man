@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-yousaf-khan-070280386/](https://www.linkedin.com/in/muhammad-yousaf-khan-070280386/)
 
-# mykhan.bscs25seecs-man
+
 ### 📜 Certifications
 * **Foundations of Cybersecurity** — [View Certificate](https://www.coursera.org/account/accomplishments/certificate/S8M30STTM2N7)
 * **Manage Security Risks** — [View Certificate](https://www.coursera.org/account/accomplishments/certificate/M2UUVOPHZNTS)
