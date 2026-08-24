@@ -12,6 +12,7 @@
 - 🤝 I’m looking for help with **Cloud Computing and Cloud Security**
 
 - 👨‍💻 All of my projects are available on Git hub [https://github.com/mykhanbscs25seecs-man/Projects](https://github.com/mykhanbscs25seecs-man/Projects)
+- 🛡️You can read the security reports here [Security Reports and Audits](https://github.com/mykhanbscs25seecs-man/Security-Reports-and-Audits/tree/main)
 
 - 💬 Ask me about **Programming, Problem Solving, Cybersecurity.**
 
