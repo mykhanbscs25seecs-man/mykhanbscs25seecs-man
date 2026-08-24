@@ -19,6 +19,16 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-yousaf-khan-070280386/](https://www.linkedin.com/in/muhammad-yousaf-khan-070280386/)
 
+# mykhan.bscs25seecs-man
+### 📜 Certifications
+* **Foundations of Cybersecurity** — [View Certificate](https://www.coursera.org/account/accomplishments/certificate/S8M30STTM2N7)
+* **Manage Security Risks** — [View Certificate](https://www.coursera.org/account/accomplishments/certificate/M2UUVOPHZNTS)
+* **Network and Network Security** — [View Certificate](https://www.coursera.org/account/accomplishments/certificate/UAFP1YXNKW01)
+* **Linux and SQL** — [View Certificate](https://www.coursera.org/account/accomplishments/certificate/SZD841GT2AMH)
+* **Assets, Threats and Vulnerabilities** — [View Certificate](https://www.coursera.org/account/accomplishments/certificate/TUHER9OIIRRD)
+* **An Introduction to Cybersecurity** — [View Certificate](https://www.coursera.org/account/accomplishments/certificate/SG68TEW7DQRV)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad yousaf khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad yousaf khan" height="30" width="40" /></a>
